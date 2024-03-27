@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths discrètes/2. Combinatoire.md",
+                "file": "Maths discrètes/3. Théorie des graphes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths discrètes/2. Combinatoire.md",
+                "file": "Maths discrètes/3. Théorie des graphes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths discrètes/2. Combinatoire.md",
+                "file": "Maths discrètes/3. Théorie des graphes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths discrètes/2. Combinatoire.md"
+                "file": "Maths discrètes/3. Théorie des graphes.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "d6987246214d7dc8",
   "lastOpenFiles": [
+    "Maths discrètes/2. Combinatoire.md",
+    "Maths discrètes/3. Théorie des graphes.md",
     "PDF/2. Combinatoire.pdf",
     "Maths discrètes/1. Ensembles et Preuves.md",
     "PDF/1. Ensembles et Preuves.pdf",
     "PDF",
     "Nouveau dossier",
-    "Maths discrètes/2. Combinatoire.md",
     "Capture d'écran 2024-03-26 111311.png",
     "Capture d'écran 2024-03-26 110624.png",
     "Capture d'écran 2024-03-25 104420.png",
